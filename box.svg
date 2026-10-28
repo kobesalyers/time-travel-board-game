@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 757.5 720.6">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: red;
+        stroke-linecap: round;
+        stroke-miterlimit: 288;
+      }
+    </style>
+  </defs>
+  <path id="front_outsideCutPath" class="st0" d="M534.7,2.6v113.4h8.5v69.8h-8.5v69.8h8.5v69.8h-8.5v69.8h8.5v69.8h-8.5v113.4h216v-113.4h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5V2.6h-216Z" vector-effect="non-scaling-stroke"/>
+  <path id="left_outsideCutPath" class="st0" d="M390.2,2.6v113.4h-8.5v69.8h8.5v69.8h-8.5v69.8h8.5v69.8h-8.5v69.8h8.5v113.4h127v-113.4h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5V2.6h-127Z" vector-effect="non-scaling-stroke"/>
+  <path id="back_outsideCutPath" class="st0" d="M3.7,2.6v113.4h8.5v69.8H3.7v69.8h8.5v69.8H3.7v69.8h8.5v69.8H3.7v113.4h216v-113.4h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5V2.6H3.7Z" vector-effect="non-scaling-stroke"/>
+  <path id="right_outsideCutPath" class="st0" d="M237.2,2.6v113.4h-8.5v69.8h8.5v69.8h-8.5v69.8h8.5v69.8h-8.5v69.8h8.5v113.4h127v-113.4h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5v-69.8h8.5v-69.8h-8.5V2.6h-127Z" vector-effect="non-scaling-stroke"/>
+  <rect class="st0" x="11.5" y="588" width="126" height="126"/>
+  <rect class="st0" x="147.1" y="588" width="126" height="126"/>
+  <rect class="st0" x="282.6" y="588" width="126" height="126"/>
+  <rect class="st0" x="418.2" y="588" width="126" height="126"/>
+</svg>
